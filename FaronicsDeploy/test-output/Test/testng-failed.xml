@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="helper.listener.ExtentListener"/>
+  </listeners>
+  <test thread-count="5" name="Open Facebook Site(failed)">
+    <classes>
+      <class name="testscripts.openSite">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="getSite"/>
+        </methods>
+      </class> <!-- testscripts.openSite -->
+    </classes>
+  </test> <!-- Open Facebook Site(failed) -->
+</suite> <!-- Failed suite [Test] -->

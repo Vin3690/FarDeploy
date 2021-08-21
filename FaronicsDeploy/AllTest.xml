@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All test">
+  <test name="LoginTest">
+    <classes>
+      <class name="testscripts.LoginTest"/>
+    </classes>
+  </test> 
+    <test name="HomePageTest">
+    <classes>
+      <class name="testscripts.HomePageTest"/>
+    </classes>
+  </test>
+  
+</suite> 

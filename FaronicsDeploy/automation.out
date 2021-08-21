@@ -1,0 +1,494 @@
+2021-07-29 17:07:176 INFO  LoggerHelper:22 - logger is configured
+2021-07-29 17:07:797 INFO  LoggerHelper:24 - Logger is Configured
+2021-08-07 14:08:652 INFO  ExcelHelper:88 - Result updated in sheet
+2021-08-07 14:08:371 INFO  ExcelHelper:88 - Result updated in sheet
+2021-08-07 14:08:672 INFO  ExcelHelper:88 - Result updated in sheet
+2021-08-07 14:08:583 INFO  ExcelHelper:88 - Result updated in sheet
+2021-08-07 14:08:276 INFO  ExcelHelper:88 - Result updated in sheet
+2021-08-07 14:08:500 INFO  ExcelHelper:88 - Result updated in sheet
+2021-08-10 16:08:164 INFO  TestBase:121 - Iniltialize the Web Driver: 1362501759
+2021-08-10 16:08:319 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-10 16:08:322 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-10 16:08:414 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-10 16:08:429 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:377 INFO  TestBase:121 - Iniltialize the Web Driver: 947173397
+2021-08-12 01:08:411 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:413 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:538 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:548 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:865 INFO  TestBase:121 - Iniltialize the Web Driver: 1171713907
+2021-08-12 01:08:974 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:992 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:41 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:73 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:823 INFO  TestBase:121 - Iniltialize the Web Driver: 66231846
+2021-08-12 01:08:858 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:860 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:916 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:959 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:168 INFO  TestBase:121 - Iniltialize the Web Driver: 66231846
+2021-08-12 01:08:187 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:192 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:216 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:230 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:127 INFO  TestBase:121 - Iniltialize the Web Driver: 1555895711
+2021-08-12 01:08:213 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:241 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:296 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:310 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:563 INFO  TestBase:121 - Iniltialize the Web Driver: 197149397
+2021-08-12 01:08:566 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:570 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:621 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:644 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:772 INFO  TestBase:133 - Iniltialize the Web Driver: 196717412
+2021-08-12 01:08:814 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:819 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:870 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:880 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:130 INFO  TestBase:133 - Iniltialize the Web Driver: 173197870
+2021-08-12 01:08:147 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:153 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:182 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:193 INFO  WaitHelper:144 - page is loaded
+2021-08-12 01:08:717 INFO  TestBase:133 - Iniltialize the Web Driver: 173197870
+2021-08-12 01:08:731 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 01:08:732 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 01:08:830 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 01:08:847 INFO  WaitHelper:144 - page is loaded
+2021-08-12 10:08:514 INFO  TestBase:133 - Iniltialize the Web Driver: 576261694
+2021-08-12 10:08:534 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 10:08:535 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 10:08:660 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 10:08:668 INFO  WaitHelper:144 - page is loaded
+2021-08-12 11:08:112 INFO  TestBase:133 - Iniltialize the Web Driver: 167692593
+2021-08-12 11:08:240 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 11:08:279 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 11:08:371 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 11:08:420 INFO  WaitHelper:144 - page is loaded
+2021-08-12 11:08:128 INFO  TestBase:133 - Iniltialize the Web Driver: 1881309779
+2021-08-12 11:08:132 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 11:08:135 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 11:08:166 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 11:08:202 INFO  WaitHelper:144 - page is loaded
+2021-08-12 11:08:212 INFO  TestBase:133 - Iniltialize the Web Driver: 167692593
+2021-08-12 11:08:326 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 11:08:339 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 11:08:371 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 11:08:452 INFO  WaitHelper:144 - page is loaded
+2021-08-12 11:08:148 INFO  TestBase:133 - Iniltialize the Web Driver: 1881309779
+2021-08-12 11:08:150 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-12 11:08:153 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-12 11:08:319 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-12 11:08:333 INFO  WaitHelper:144 - page is loaded
+2021-08-13 09:08:276 INFO  TestBase:133 - Iniltialize the Web Driver: 1765865093
+2021-08-13 09:08:314 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 09:08:395 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 09:08:491 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 09:08:575 INFO  WaitHelper:144 - page is loaded
+2021-08-13 09:08:867 INFO  TestBase:133 - Iniltialize the Web Driver: 1185575212
+2021-08-13 09:08:868 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 09:08:869 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 09:08:891 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 09:08:924 INFO  WaitHelper:144 - page is loaded
+2021-08-13 09:08:388 INFO  TestBase:125 - Iniltialize the Web Driver: 167692593
+2021-08-13 09:08:529 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 09:08:531 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 09:08:577 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 09:08:608 INFO  WaitHelper:144 - page is loaded
+2021-08-13 09:08:685 INFO  TestBase:125 - Iniltialize the Web Driver: 837693403
+2021-08-13 09:08:692 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 09:08:692 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 09:08:767 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 09:08:778 INFO  WaitHelper:144 - page is loaded
+2021-08-13 11:08:875 INFO  TestBase:120 - Iniltialize the Web Driver: 608108604
+2021-08-13 11:08:928 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 11:08:929 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 11:08:963 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 11:08:975 INFO  WaitHelper:144 - page is loaded
+2021-08-13 11:08:939 INFO  TestBase:120 - Iniltialize the Web Driver: 1187225933
+2021-08-13 11:08:942 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 11:08:948 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 11:08:998 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 11:08:48 INFO  WaitHelper:144 - page is loaded
+2021-08-13 15:08:274 INFO  TestBase:120 - Iniltialize the Web Driver: 881977454
+2021-08-13 15:08:370 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 15:08:372 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 15:08:507 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 15:08:615 INFO  WaitHelper:144 - page is loaded
+2021-08-13 15:08:895 INFO  TestBase:120 - Iniltialize the Web Driver: 1687586610
+2021-08-13 15:08:900 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 15:08:904 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 15:08:04 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 15:08:76 INFO  WaitHelper:144 - page is loaded
+2021-08-13 15:08:742 INFO  TestBase:120 - Iniltialize the Web Driver: 1497983329
+2021-08-13 15:08:763 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 15:08:863 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 15:08:979 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 15:08:143 INFO  WaitHelper:144 - page is loaded
+2021-08-13 15:08:399 INFO  TestBase:120 - Iniltialize the Web Driver: 1316205906
+2021-08-13 15:08:400 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 15:08:403 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 15:08:521 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 15:08:539 INFO  WaitHelper:144 - page is loaded
+2021-08-13 15:08:54 INFO  TestBase:120 - Iniltialize the Web Driver: 1497983329
+2021-08-13 15:08:254 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 15:08:258 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 15:08:332 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 15:08:394 INFO  WaitHelper:144 - page is loaded
+2021-08-13 15:08:957 INFO  TestBase:120 - Iniltialize the Web Driver: 1316205906
+2021-08-13 15:08:958 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 15:08:958 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 15:08:981 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 15:08:993 INFO  WaitHelper:144 - page is loaded
+2021-08-13 15:08:91 INFO  TestBase:120 - Iniltialize the Web Driver: 1497983329
+2021-08-13 15:08:433 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 15:08:441 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 15:08:864 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 15:08:10 INFO  WaitHelper:144 - page is loaded
+2021-08-13 15:08:963 INFO  TestBase:120 - Iniltialize the Web Driver: 1316205906
+2021-08-13 15:08:964 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 15:08:965 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 15:08:988 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 15:08:92 INFO  WaitHelper:144 - page is loaded
+2021-08-13 16:08:519 INFO  TestBase:120 - Iniltialize the Web Driver: 1909141817
+2021-08-13 16:08:132 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 16:08:135 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 16:08:260 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 16:08:355 INFO  WaitHelper:144 - page is loaded
+2021-08-13 16:08:218 INFO  TestBase:120 - Iniltialize the Web Driver: 1095902519
+2021-08-13 16:08:219 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-13 16:08:220 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-13 16:08:245 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-13 16:08:273 INFO  WaitHelper:144 - page is loaded
+2021-08-14 16:08:492 INFO  TestBase:120 - Iniltialize the Web Driver: 345986913
+2021-08-14 16:08:503 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-14 16:08:505 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-14 16:08:564 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-14 16:08:597 INFO  WaitHelper:144 - page is loaded
+2021-08-14 16:08:935 INFO  TestBase:130 - Driver is null...
+2021-08-14 16:08:311 INFO  TestBase:130 - Driver is null...
+2021-08-14 16:08:778 INFO  TestBase:130 - Driver is null...
+2021-08-14 16:08:17 INFO  TestBase:130 - Driver is null...
+2021-08-14 16:08:257 INFO  TestBase:130 - Driver is null...
+2021-08-15 10:08:364 INFO  TestBase:120 - Iniltialize the Web Driver: 1286134778
+2021-08-15 10:08:380 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 10:08:381 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-15 10:08:454 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-15 10:08:464 INFO  WaitHelper:144 - page is loaded
+2021-08-15 17:08:994 INFO  TestBase:120 - Iniltialize the Web Driver: 1831717330
+2021-08-15 17:08:06 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 17:08:08 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-15 17:08:30 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-15 17:08:46 INFO  WaitHelper:144 - page is loaded
+2021-08-15 17:08:260 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 17:08:547 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (5dc78e0157fb9cba19f1a751626d0b4e)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-15 17:08:954 INFO  WaitHelper:157 - element is visible now
+2021-08-15 17:08:955 INFO  TestBase:152 - Capturing UI of navigating screen
+2021-08-15 17:08:298 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-15 17:08:755 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-15 17:08:151 INFO  LoginPage:76 - Clicked on SignIn Button
+2021-08-15 17:08:153 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 17:08:819 INFO  VerificationHelper:21 - element is displayed... :DEPLOY
+2021-08-15 19:08:272 INFO  TestBase:124 - Iniltialize the Web Driver: 1335256857
+2021-08-15 19:08:286 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 19:08:288 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-15 19:08:395 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-15 19:08:405 INFO  WaitHelper:144 - page is loaded
+2021-08-15 19:08:183 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 19:08:236 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (3fd6c8a8db4d643123835d4633c7ba51)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-15 19:08:546 INFO  WaitHelper:157 - element is visible now
+2021-08-15 19:08:548 INFO  TestBase:156 - Capturing UI of navigating screen
+2021-08-15 19:08:227 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-15 19:08:489 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-15 19:08:75 INFO  LoginPage:76 - Clicked on SignIn Button
+2021-08-15 19:08:77 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 19:08:533 INFO  VerificationHelper:21 - element is displayed... :DEPLOY
+2021-08-15 19:08:14 ERROR TestBase:91 - Driver is empty..
+2021-08-15 22:08:257 INFO  TestBase:122 - Iniltialize the Web Driver: 1335256857
+2021-08-15 22:08:275 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 22:08:277 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-15 22:08:392 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-15 22:08:423 INFO  WaitHelper:144 - page is loaded
+2021-08-15 22:08:372 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 22:08:439 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (928e8fd0ee3566ffbca0619fa00a21c4)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-15 22:08:38 INFO  WaitHelper:157 - element is visible now
+2021-08-15 22:08:39 INFO  TestBase:154 - Capturing UI of navigating screen
+2021-08-15 22:08:887 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-15 22:08:144 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-15 22:08:355 INFO  LoginPage:76 - Clicked on SignIn Button
+2021-08-15 22:08:359 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 22:08:360 INFO  TestBase:154 - Capturing UI of navigating screen
+2021-08-15 22:08:80 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-15 22:08:80 INFO  TestBase:154 - Capturing UI of navigating screen
+2021-08-15 22:08:715 INFO  LoginPage:48 - Closing Download agent pop up....!!
+2021-08-15 22:08:969 INFO  LoginPage:54 -  Downloading deploy agent ....!!
+2021-08-15 22:08:998 INFO  LoginPage:60 -  Clicked on user icon....!!
+2021-08-15 22:08:359 INFO  LoginPage:66 -  User signout successfully...!!!
+2021-08-17 08:08:855 INFO  TestBase:123 - Iniltialize the Web Driver: 1107218767
+2021-08-17 08:08:868 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 08:08:870 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 08:08:33 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 08:08:59 INFO  WaitHelper:144 - page is loaded
+2021-08-17 08:08:213 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 08:08:306 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (85a1845da8139dec63158c71cc95edc8)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 08:08:523 INFO  WaitHelper:157 - element is visible now
+2021-08-17 08:08:524 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 08:08:355 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 08:08:642 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 08:08:830 INFO  TestBase:123 - Iniltialize the Web Driver: 670996243
+2021-08-17 08:08:846 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 08:08:847 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 08:08:877 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 08:08:911 INFO  WaitHelper:144 - page is loaded
+2021-08-17 08:08:145 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 08:08:183 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (5b4301e3e2d35334d656e8ff8696b9df)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 08:08:294 INFO  WaitHelper:157 - element is visible now
+2021-08-17 08:08:295 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 08:08:956 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 08:08:237 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 08:08:188 INFO  TestBase:123 - Iniltialize the Web Driver: 1497983329
+2021-08-17 08:08:217 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 08:08:219 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 08:08:355 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 08:08:395 INFO  WaitHelper:144 - page is loaded
+2021-08-17 08:08:508 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 08:08:626 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (ad7743f553ff74aedf278f8dc5088627)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 08:08:875 INFO  WaitHelper:157 - element is visible now
+2021-08-17 08:08:877 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 08:08:686 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 08:08:953 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 08:08:961 INFO  TestBase:123 - Iniltialize the Web Driver: 104367332
+2021-08-17 08:08:976 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 08:08:978 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 08:08:36 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 08:08:43 INFO  WaitHelper:144 - page is loaded
+2021-08-17 08:08:697 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 08:08:740 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (53326afdf61da51a4ff8d529ba86e89e)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 08:08:850 INFO  WaitHelper:157 - element is visible now
+2021-08-17 08:08:852 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 08:08:691 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 08:08:957 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 09:08:645 INFO  TestBase:123 - Iniltialize the Web Driver: 1497983329
+2021-08-17 09:08:700 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 09:08:703 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 09:08:806 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 09:08:822 INFO  WaitHelper:144 - page is loaded
+2021-08-17 09:08:632 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 09:08:739 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (b56182a06e88e245b3d1dce2b3e958b5)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 09:08:915 INFO  WaitHelper:157 - element is visible now
+2021-08-17 09:08:917 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 09:08:776 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 09:08:140 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 09:08:740 INFO  TestBase:123 - Iniltialize the Web Driver: 438263665
+2021-08-17 09:08:755 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 09:08:756 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 09:08:768 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 09:08:775 INFO  WaitHelper:144 - page is loaded
+2021-08-17 09:08:498 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 09:08:546 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (562cecddafbffd40a3a9f5aa4457d21e)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 09:08:672 INFO  WaitHelper:157 - element is visible now
+2021-08-17 09:08:673 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 09:08:325 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 09:08:584 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 16:08:275 INFO  TestBase:123 - Iniltialize the Web Driver: 1812200214
+2021-08-17 16:08:311 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:379 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 16:08:451 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 16:08:480 INFO  WaitHelper:144 - page is loaded
+2021-08-17 16:08:237 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:291 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (00a15c84bd01360b58d07361fe5fef3a)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 16:08:609 INFO  WaitHelper:157 - element is visible now
+2021-08-17 16:08:610 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 16:08:432 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 16:08:716 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 16:08:298 INFO  TestBase:123 - Iniltialize the Web Driver: 1596708569
+2021-08-17 16:08:299 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:300 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 16:08:325 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 16:08:332 INFO  WaitHelper:144 - page is loaded
+2021-08-17 16:08:710 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:778 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (244a56c1e171cc31b1962318fd0be31f)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 16:08:933 INFO  WaitHelper:157 - element is visible now
+2021-08-17 16:08:934 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 16:08:639 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 16:08:952 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 16:08:425 INFO  TestBase:123 - Iniltialize the Web Driver: 1624355359
+2021-08-17 16:08:446 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:482 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 16:08:597 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 16:08:676 INFO  WaitHelper:144 - page is loaded
+2021-08-17 16:08:581 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:694 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (30a19ad0bc40f708425efb9d99d1bd9e)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 16:08:918 INFO  WaitHelper:157 - element is visible now
+2021-08-17 16:08:920 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 16:08:609 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 16:08:887 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 16:08:389 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-17 16:08:405 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:406 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 16:08:645 INFO  VerificationHelper:21 - element is displayed... :DEPLOY
+2021-08-17 16:08:646 INFO  LoginTest:26 - User successfully log in to application..!!!
+2021-08-17 16:08:408 INFO  TestBase:123 - Iniltialize the Web Driver: 2058127492
+2021-08-17 16:08:409 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:410 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 16:08:434 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 16:08:447 INFO  WaitHelper:144 - page is loaded
+2021-08-17 16:08:556 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:594 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (f978828bfa41333660c9a8ff20c31a71)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 16:08:720 INFO  WaitHelper:157 - element is visible now
+2021-08-17 16:08:721 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 16:08:285 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 16:08:558 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 16:08:48 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-17 16:08:49 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:50 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 16:08:79 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 16:08:80 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 16:08:706 INFO  LoginPage:48 - Closing Download agent pop up....!!
+2021-08-17 16:08:975 INFO  LoginPage:54 -  Downloading deploy agent ....!!
+2021-08-17 16:08:161 INFO  LoginPage:60 -  Clicked on user icon....!!
+2021-08-17 16:08:517 INFO  LoginPage:66 -  User signout successfully...!!!
+2021-08-17 18:08:987 INFO  TestBase:123 - Iniltialize the Web Driver: 1856643544
+2021-08-17 18:08:92 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 18:08:95 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 18:08:130 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 18:08:191 INFO  WaitHelper:144 - page is loaded
+2021-08-17 18:08:662 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 18:08:772 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (50fdf06f42f61229d648834819b15f1c)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 18:08:922 INFO  WaitHelper:157 - element is visible now
+2021-08-17 18:08:923 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 18:08:654 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 18:08:928 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 18:08:502 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-17 18:08:519 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 18:08:520 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 18:08:40 INFO  VerificationHelper:21 - element is displayed... :DEPLOY
+2021-08-17 18:08:41 INFO  LoginTest:26 - User successfully log in to application..!!!
+2021-08-17 18:08:618 INFO  TestBase:123 - Iniltialize the Web Driver: 501855493
+2021-08-17 18:08:619 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 18:08:619 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 18:08:689 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 18:08:708 INFO  WaitHelper:144 - page is loaded
+2021-08-17 18:08:423 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 18:08:480 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (774ae2c9a8454793bdd3081c4cfcf69f)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 18:08:606 INFO  WaitHelper:157 - element is visible now
+2021-08-17 18:08:606 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 18:08:256 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 18:08:571 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 18:08:497 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-17 18:08:498 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 18:08:499 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 18:08:536 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 18:08:536 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 18:08:139 INFO  LoginPage:48 - Closing Download agent pop up....!!
+2021-08-17 18:08:377 INFO  LoginPage:54 -  Downloading deploy agent ....!!
+2021-08-17 18:08:290 INFO  LoginPage:60 -  Clicked on user icon....!!
+2021-08-17 18:08:235 INFO  LoginPage:66 -  User signout successfully...!!!
+2021-08-17 19:08:874 INFO  TestBase:123 - Iniltialize the Web Driver: 608108604
+2021-08-17 19:08:888 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:891 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 19:08:08 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 19:08:23 INFO  WaitHelper:144 - page is loaded
+2021-08-17 19:08:397 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:490 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (81cb7a83905cb7a96022c24f46ca2e0a)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 19:08:691 INFO  WaitHelper:157 - element is visible now
+2021-08-17 19:08:693 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:427 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 19:08:709 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 19:08:795 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-17 19:08:797 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:798 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:989 INFO  VerificationHelper:21 - element is displayed... :DEPLOY
+2021-08-17 19:08:989 INFO  LoginTest:26 - User successfully log in to application..!!!
+2021-08-17 19:08:194 INFO  TestBase:123 - Iniltialize the Web Driver: 1775525066
+2021-08-17 19:08:195 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:195 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 19:08:209 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 19:08:218 INFO  WaitHelper:144 - page is loaded
+2021-08-17 19:08:974 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:17 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (a8d543efbf84f376d0013cde2a2a3ce5)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 19:08:112 INFO  WaitHelper:157 - element is visible now
+2021-08-17 19:08:113 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:699 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 19:08:971 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 19:08:762 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-17 19:08:764 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:765 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:803 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:805 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:421 INFO  LoginPage:48 - Closing Download agent pop up....!!
+2021-08-17 19:08:635 INFO  LoginPage:54 -  Downloading deploy agent ....!!
+2021-08-17 19:08:156 INFO  LoginPage:60 -  Clicked on user icon....!!
+2021-08-17 19:08:566 INFO  TestBase:123 - Iniltialize the Web Driver: 1248598189
+2021-08-17 19:08:590 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:592 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 19:08:725 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 19:08:770 INFO  WaitHelper:144 - page is loaded
+2021-08-17 19:08:585 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:687 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (dd5c3e1b3fcf5d6c051b75f79bd78886)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 19:08:859 INFO  WaitHelper:157 - element is visible now
+2021-08-17 19:08:860 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:550 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 19:08:802 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 19:08:359 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-17 19:08:362 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:363 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:813 INFO  VerificationHelper:21 - element is displayed... :DEPLOY
+2021-08-17 19:08:814 INFO  LoginTest:26 - User successfully log in to application..!!!
+2021-08-17 19:08:00 INFO  TestBase:123 - Iniltialize the Web Driver: 2047770317
+2021-08-17 19:08:01 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:01 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-17 19:08:17 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-17 19:08:42 INFO  WaitHelper:144 - page is loaded
+2021-08-17 19:08:617 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:660 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (a3c6ad461d16f0a0d2e5de936b91c494)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-17 19:08:760 INFO  WaitHelper:157 - element is visible now
+2021-08-17 19:08:761 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:272 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-17 19:08:544 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-17 19:08:247 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-17 19:08:249 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:249 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:456 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-17 19:08:457 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-17 19:08:135 INFO  LoginPage:48 - Closing Download agent pop up....!!
+2021-08-17 19:08:310 INFO  LoginPage:54 -  Downloading deploy agent ....!!
+2021-08-17 19:08:672 INFO  LoginPage:60 -  Clicked on user icon....!!
+2021-08-17 19:08:119 INFO  LoginPage:66 -  User signout successfully...!!!
+2021-08-21 10:08:767 INFO  TestBase:123 - Iniltialize the Web Driver: 837233852
+2021-08-21 10:08:882 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-21 10:08:884 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-21 10:08:979 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-21 10:08:68 INFO  WaitHelper:144 - page is loaded
+2021-08-21 10:08:704 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-21 10:08:900 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (b27bc1235beeb154d75326236731c76c)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-21 10:08:499 INFO  WaitHelper:157 - element is visible now
+2021-08-21 10:08:500 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-21 10:08:146 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-21 10:08:407 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-21 10:08:275 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-21 10:08:293 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-21 10:08:294 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-21 10:08:275 INFO  VerificationHelper:21 - element is displayed... :DEPLOY
+2021-08-21 10:08:277 INFO  LoginTest:26 - User successfully log in to application..!!!
+2021-08-21 10:08:259 INFO  TestBase:123 - Iniltialize the Web Driver: 717132147
+2021-08-21 10:08:260 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-21 10:08:261 INFO  WaitHelper:39 - Implicit Wait has been set to: 60
+2021-08-21 10:08:268 INFO  WaitHelper:142 - waiting for page to load for : SECONDS seconds
+2021-08-21 10:08:290 INFO  WaitHelper:144 - page is loaded
+2021-08-21 10:08:526 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-21 10:08:584 INFO  WaitHelper:154 - waiting for :[[ChromeDriver: chrome on WINDOWS (52a212bb71a50d613c5d0fb323337466)] -> xpath: //input[@value='Sign in']] for :120 seconds
+2021-08-21 10:08:721 INFO  WaitHelper:157 - element is visible now
+2021-08-21 10:08:726 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-21 10:08:532 INFO  LoginPage:63 - Email Address entered into Email Address TextBox..!!
+2021-08-21 10:08:795 INFO  LoginPage:70 - Email Password entered into Email Password TextBox..!!
+2021-08-21 10:08:785 INFO  LoginPage:76 - Clicked on SignIn Button....
+2021-08-21 10:08:787 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-21 10:08:788 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-21 10:08:494 INFO  WaitHelper:29 - WaitHelper object created..
+2021-08-21 10:08:494 INFO  TestBase:155 - Capturing UI of navigating screen
+2021-08-21 10:08:276 INFO  LoginPage:48 - Closing Download agent pop up....!!
+2021-08-21 10:08:489 INFO  LoginPage:54 -  Downloading deploy agent ....!!
+2021-08-21 10:08:447 INFO  LoginPage:60 -  Clicked on user icon....!!
+2021-08-21 10:08:603 INFO  LoginPage:66 -  User signout successfully...!!!
