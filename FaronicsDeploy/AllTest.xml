@@ -11,5 +11,10 @@
       <class name="testscripts.HomePageTest"/>
     </classes>
   </test>
+      <test name="HomePageTest">
+    <classes>
+      <class name="testscripts.openSite"/>
+    </classes>
+  </test>
   
 </suite> 
